@@ -22,8 +22,6 @@ Click the kebab menu 'More actions' on Drift Tower folder and select download.
 ### 7. Click Run Anyway
 ![alt text](windowsSecurityRunAnyway.png)
 
-## [Controls](../4.Controls/controls.md)
-
 ## Documentation Links
 ### [1. Summary](../1.Summary/summary.md)
 ### [2. Install](./install.md)
