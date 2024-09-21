@@ -23,3 +23,10 @@ Click the kebab menu 'More actions' on Drift Tower folder and select download.
 ![alt text](windowsSecurityRunAnyway.png)
 
 ## [Controls](../4.Controls/controls.md)
+
+## Documentation Links
+### [1. Summary](../1.Summary/summary.md)
+### [2. Install](./install.md)
+### [3. Uninstall](../3.Uninstall/uninstall.md)
+### [4. Controls](../4.Controls/controls.md)
+### [9. ChangeLogs](../9.ChangeLogs/changeLogs.md)
