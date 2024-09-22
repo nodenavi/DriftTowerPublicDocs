@@ -6,19 +6,24 @@
 
 | Button | Description |
 | ----------- | ----------- |
-| Left Trigger  | brake |
-| Right Trigger | accelerate |
 | Left Stick Horizontal | steer |
-| Button East | shoot |
+| Right Trigger | accelerate |
+| Left Trigger  | brake |
+| Left Bumper | ebrake |
+| Button East | bomb |
+| Button South | shoot |
+
 
 ## Keybaord and Moused (Not Preferred)
 
 | Button | Description |
 | ----------- | ----------- |
-| s | brake |
-| w | accelerate |
 | a | steer left |
 | d | steer right |
+| s | brake |
+| w | accelerate |
+| right click | ebrake |
+| f | bomb |
 | left click  | shoot |
 
 ## Documentation Links
