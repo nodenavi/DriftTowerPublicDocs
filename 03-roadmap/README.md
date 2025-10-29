@@ -16,8 +16,8 @@ Solo indie game: drift-based combat with roguelike progression. Everything built
 
 **What's included:**
 
-- 10 complete maps (floors)
-- 2-3 enemy types
+- 10-15 complete maps (floors)
+- 5-10 enemy types
 - Clear beginning, middle, end
 - Basic progression system
 - Programmer art (placeholder visuals)
