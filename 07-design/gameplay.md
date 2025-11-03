@@ -16,3 +16,8 @@
 - Electronic intensity building music
 - Pixel art world
 - Hand drawn player? (JDM art style)
+
+## Drifting
+
+- Drift style should be 4 buttons. - Acceleration - Brake - E-Brake - Steering
+  The car drives normally until drifts are initialized with E-Brake tap. Drifts are controlled with steering and acceleration.
